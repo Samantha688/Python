@@ -7,4 +7,4 @@ Python practice
   - Ramen ratings (one hot encoding)
   - Boston house prices (skewness) 
 - Supervised Machine Learning 
-  - Boston house prices (Linear regression)
+  - Boston house prices (linear regression)
